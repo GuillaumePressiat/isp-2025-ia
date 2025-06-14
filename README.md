@@ -26,5 +26,7 @@
 
 ![éthique](docs/jpeg/gpr_1_isp_intro_ia__brest_2025-03-20_dark.012.jpeg)
 
+![3 types d'algo](docs/jpeg/gpr_1_isp_intro_ia__brest_2025-03-20_dark.017.jpeg)
+
 ![biblio](docs/jpeg/gpr_1_isp_intro_ia__brest_2025-03-20_dark.018.jpeg)
 
