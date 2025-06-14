@@ -10,11 +10,11 @@
 
 ## pdf
 
-<a href = "docs/isp_intro_ia__brest_2025-03-20_dark.pdf" target="_blank">Accéder à la version pdf de la présentation</a>
+<a href = "https://guillaumepressiat.github.io/isp-2025-ia/isp_intro_ia__brest_2025-03-20_dark.pdf" target="_blank">Accéder à la version pdf de la présentation</a>
 
 ## html
 
-<a href = "docs/index.html" target="_blank">Accéder à la version html de la présentation</a>
+<a href = "https://guillaumepressiat.github.io/isp-2025-ia/index.html" target="_blank">Accéder à la version html de la présentation</a>
 
 ## Aperçus
 
